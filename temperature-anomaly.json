@@ -1,0 +1,1402 @@
+[
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1850,
+   "Global average temperature anomaly relative to 1961-1990": -0.4177114,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.2461663,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.58925647
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1851,
+   "Global average temperature anomaly relative to 1961-1990": -0.2333498,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.054831687,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.41186792
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1852,
+   "Global average temperature anomaly relative to 1961-1990": -0.22939907,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.04941572,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.40938243
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1853,
+   "Global average temperature anomaly relative to 1961-1990": -0.27035445,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.110699534,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.43000934
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1854,
+   "Global average temperature anomaly relative to 1961-1990": -0.29152083,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.15033019,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.4327115
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1855,
+   "Global average temperature anomaly relative to 1961-1990": -0.29691675,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.15451474,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.43931878
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1856,
+   "Global average temperature anomaly relative to 1961-1990": -0.32035372,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.1726142,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.46809322
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1857,
+   "Global average temperature anomaly relative to 1961-1990": -0.46723005,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.31813794,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.61632216
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1858,
+   "Global average temperature anomaly relative to 1961-1990": -0.3887657,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.24064532,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.53688604
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1859,
+   "Global average temperature anomaly relative to 1961-1990": -0.28126517,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.1386095,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.42392084
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1860,
+   "Global average temperature anomaly relative to 1961-1990": -0.39016518,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.24135375,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.5389766
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1861,
+   "Global average temperature anomaly relative to 1961-1990": -0.42911294,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.26122484,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.597001
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1862,
+   "Global average temperature anomaly relative to 1961-1990": -0.5363694,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.3690788,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.70365995
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1863,
+   "Global average temperature anomaly relative to 1961-1990": -0.34424406,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.15445141,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.53403676
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1864,
+   "Global average temperature anomaly relative to 1961-1990": -0.46546507,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.28283712,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.64809304
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1865,
+   "Global average temperature anomaly relative to 1961-1990": -0.33248132,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.14050578,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.5244569
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1866,
+   "Global average temperature anomaly relative to 1961-1990": -0.3412875,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.16077414,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.5218009
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1867,
+   "Global average temperature anomaly relative to 1961-1990": -0.35699412,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.16096504,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.5530232
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1868,
+   "Global average temperature anomaly relative to 1961-1990": -0.35182714,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.1741756,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.5294787
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1869,
+   "Global average temperature anomaly relative to 1961-1990": -0.31659195,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.15672056,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.47646335
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1870,
+   "Global average temperature anomaly relative to 1961-1990": -0.32792753,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.18715557,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.46869946
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1871,
+   "Global average temperature anomaly relative to 1961-1990": -0.36856276,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.22299235,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.51413316
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1872,
+   "Global average temperature anomaly relative to 1961-1990": -0.32811058,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.19305114,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.46317002
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1873,
+   "Global average temperature anomaly relative to 1961-1990": -0.3412969,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.21009217,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.47250164
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1874,
+   "Global average temperature anomaly relative to 1961-1990": -0.3732512,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.2393598,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.5071426
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1875,
+   "Global average temperature anomaly relative to 1961-1990": -0.37562594,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.23721085,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.514041
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1876,
+   "Global average temperature anomaly relative to 1961-1990": -0.4241099,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.28534868,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.56287116
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1877,
+   "Global average temperature anomaly relative to 1961-1990": -0.10110884,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.02760234,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.22982001
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1878,
+   "Global average temperature anomaly relative to 1961-1990": -0.011315192,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.1085822,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.13121258
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1879,
+   "Global average temperature anomaly relative to 1961-1990": -0.30363432,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.1732043,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.43406436
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1880,
+   "Global average temperature anomaly relative to 1961-1990": -0.31583205,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.19151321,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.44015092
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1881,
+   "Global average temperature anomaly relative to 1961-1990": -0.23224552,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.10655606,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.35793498
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1882,
+   "Global average temperature anomaly relative to 1961-1990": -0.29553008,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.17091006,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.4201501
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1883,
+   "Global average temperature anomaly relative to 1961-1990": -0.3464744,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.23213112,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.4608177
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1884,
+   "Global average temperature anomaly relative to 1961-1990": -0.49232006,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.38197154,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.6026686
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1885,
+   "Global average temperature anomaly relative to 1961-1990": -0.47112358,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.35917896,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.5830682
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1886,
+   "Global average temperature anomaly relative to 1961-1990": -0.42090362,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.31926903,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.5225382
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1887,
+   "Global average temperature anomaly relative to 1961-1990": -0.49878576,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.38101166,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.61655986
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1888,
+   "Global average temperature anomaly relative to 1961-1990": -0.37937889,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.265434,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.49332377
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1889,
+   "Global average temperature anomaly relative to 1961-1990": -0.24989556,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.12757017,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.37222093
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1890,
+   "Global average temperature anomaly relative to 1961-1990": -0.50685817,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.3813068,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.6324095
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1891,
+   "Global average temperature anomaly relative to 1961-1990": -0.40131494,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.26525998,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.5373699
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1892,
+   "Global average temperature anomaly relative to 1961-1990": -0.5075585,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.3707885,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.64432853
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1893,
+   "Global average temperature anomaly relative to 1961-1990": -0.49461922,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.35770702,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.6315314
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1894,
+   "Global average temperature anomaly relative to 1961-1990": -0.48376393,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.34195974,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.6255681
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1895,
+   "Global average temperature anomaly relative to 1961-1990": -0.4487516,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.3154826,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.58202064
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1896,
+   "Global average temperature anomaly relative to 1961-1990": -0.28400728,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.15061307,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.41740146
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1897,
+   "Global average temperature anomaly relative to 1961-1990": -0.25980017,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.12107606,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.39852425
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1898,
+   "Global average temperature anomaly relative to 1961-1990": -0.48579213,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.35393503,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.6176492
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1899,
+   "Global average temperature anomaly relative to 1961-1990": -0.35543364,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.22447036,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.48639694
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1900,
+   "Global average temperature anomaly relative to 1961-1990": -0.2344939,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.1025179,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.3664699
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1901,
+   "Global average temperature anomaly relative to 1961-1990": -0.29341024,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.15855433,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.42826617
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1902,
+   "Global average temperature anomaly relative to 1961-1990": -0.43895653,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.3046049,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.57330817
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1903,
+   "Global average temperature anomaly relative to 1961-1990": -0.5332871,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.40852055,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.65805364
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1904,
+   "Global average temperature anomaly relative to 1961-1990": -0.59751105,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.47006598,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.72495615
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1905,
+   "Global average temperature anomaly relative to 1961-1990": -0.40779322,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.2851569,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.53042954
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1906,
+   "Global average temperature anomaly relative to 1961-1990": -0.31910878,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.19329198,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.4449256
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1907,
+   "Global average temperature anomaly relative to 1961-1990": -0.5040763,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.38819233,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.61996025
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1908,
+   "Global average temperature anomaly relative to 1961-1990": -0.5138197,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.39752448,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.6301149
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1909,
+   "Global average temperature anomaly relative to 1961-1990": -0.53568715,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.42751858,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.64385575
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1910,
+   "Global average temperature anomaly relative to 1961-1990": -0.5309095,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.4163476,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.6454714
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1911,
+   "Global average temperature anomaly relative to 1961-1990": -0.539079,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.42710155,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.6510565
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1912,
+   "Global average temperature anomaly relative to 1961-1990": -0.47553864,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.37275177,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.5783255
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1913,
+   "Global average temperature anomaly relative to 1961-1990": -0.4670111,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.3568033,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.5772189
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1914,
+   "Global average temperature anomaly relative to 1961-1990": -0.26243657,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.15486072,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.37001243
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1915,
+   "Global average temperature anomaly relative to 1961-1990": -0.19167219,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.07413985,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.30920455
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1916,
+   "Global average temperature anomaly relative to 1961-1990": -0.42002314,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.2947124,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.5453339
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1917,
+   "Global average temperature anomaly relative to 1961-1990": -0.5428197,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.40839645,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.67724293
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1918,
+   "Global average temperature anomaly relative to 1961-1990": -0.4243641,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.28244856,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.56627965
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1919,
+   "Global average temperature anomaly relative to 1961-1990": -0.32528907,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.18691428,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.46366385
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1920,
+   "Global average temperature anomaly relative to 1961-1990": -0.29835507,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.16562946,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.4310807
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1921,
+   "Global average temperature anomaly relative to 1961-1990": -0.24044435,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.11637985,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.36450884
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1922,
+   "Global average temperature anomaly relative to 1961-1990": -0.3390137,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.22834438,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.449683
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1923,
+   "Global average temperature anomaly relative to 1961-1990": -0.31768188,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.20929964,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.4260641
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1924,
+   "Global average temperature anomaly relative to 1961-1990": -0.3118017,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.2031921,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.4204113
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1925,
+   "Global average temperature anomaly relative to 1961-1990": -0.28214198,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.16933253,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.39495143
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1926,
+   "Global average temperature anomaly relative to 1961-1990": -0.122555,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.014262918,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.23084709
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1927,
+   "Global average temperature anomaly relative to 1961-1990": -0.2291136,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.12602946,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.33219776
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1928,
+   "Global average temperature anomaly relative to 1961-1990": -0.20646581,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.09549474,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.31743687
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1929,
+   "Global average temperature anomaly relative to 1961-1990": -0.39244303,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.28202602,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.50286
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1930,
+   "Global average temperature anomaly relative to 1961-1990": -0.17680542,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.06319938,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.29041144
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1931,
+   "Global average temperature anomaly relative to 1961-1990": -0.103397675,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.0058962516,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.2126916
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1932,
+   "Global average temperature anomaly relative to 1961-1990": -0.14546171,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.03896824,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.25195518
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1933,
+   "Global average temperature anomaly relative to 1961-1990": -0.32234442,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.21758842,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.4271004
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1934,
+   "Global average temperature anomaly relative to 1961-1990": -0.17433685,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.07466974,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.27400395
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1935,
+   "Global average temperature anomaly relative to 1961-1990": -0.20605923,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.10862113,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.30349734
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1936,
+   "Global average temperature anomaly relative to 1961-1990": -0.16952094,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.07552263,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.26351926
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1937,
+   "Global average temperature anomaly relative to 1961-1990": -0.019198947,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.08136088,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.11975877
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1938,
+   "Global average temperature anomaly relative to 1961-1990": -0.012200737,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.08590227,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.110303745
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1939,
+   "Global average temperature anomaly relative to 1961-1990": -0.040797204,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.06511029,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.14670469
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1940,
+   "Global average temperature anomaly relative to 1961-1990": 0.07593582,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.19382133,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.041949686
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1941,
+   "Global average temperature anomaly relative to 1961-1990": 0.0381293,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.23851252,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.16225392
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1942,
+   "Global average temperature anomaly relative to 1961-1990": 0.0014060677,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.19802456,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.19521242
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1943,
+   "Global average temperature anomaly relative to 1961-1990": 0.0064215823,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.21242628,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.19958311
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1944,
+   "Global average temperature anomaly relative to 1961-1990": 0.14410514,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.3427051,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.05449483
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1945,
+   "Global average temperature anomaly relative to 1961-1990": 0.043088354,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.24345961,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.1572829
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1946,
+   "Global average temperature anomaly relative to 1961-1990": -0.11881461,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.028321814,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.26595104
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1947,
+   "Global average temperature anomaly relative to 1961-1990": -0.09120561,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.049379256,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.23179047
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1948,
+   "Global average temperature anomaly relative to 1961-1990": -0.12466127,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.009810847,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.25913337
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1949,
+   "Global average temperature anomaly relative to 1961-1990": -0.14380223,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.033526964,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.25407746
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1950,
+   "Global average temperature anomaly relative to 1961-1990": -0.2266218,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.120586626,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.33265698
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1951,
+   "Global average temperature anomaly relative to 1961-1990": -0.06115396,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.028042309,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.15035023
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1952,
+   "Global average temperature anomaly relative to 1961-1990": 0.015354548,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.11364508,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.08293598
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1953,
+   "Global average temperature anomaly relative to 1961-1990": 0.07763075,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.17579111,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.020529611
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1954,
+   "Global average temperature anomaly relative to 1961-1990": -0.11675023,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.02499773,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.20850272
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1955,
+   "Global average temperature anomaly relative to 1961-1990": -0.19730994,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.11018991,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.28442997
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1956,
+   "Global average temperature anomaly relative to 1961-1990": -0.26316562,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.18720558,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.33912566
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1957,
+   "Global average temperature anomaly relative to 1961-1990": -0.035334915,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.029898778,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.10056861
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1958,
+   "Global average temperature anomaly relative to 1961-1990": -0.017632563,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.04780944,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.08307456
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1959,
+   "Global average temperature anomaly relative to 1961-1990": -0.048004813,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.014354111,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.11036374
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1960,
+   "Global average temperature anomaly relative to 1961-1990": -0.11545958,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.056781605,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.17413756
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1961,
+   "Global average temperature anomaly relative to 1961-1990": -0.019999769,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.030780297,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.07077983
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1962,
+   "Global average temperature anomaly relative to 1961-1990": -0.06404272,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.010776198,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.117309235
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1963,
+   "Global average temperature anomaly relative to 1961-1990": -0.036810614,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.016958548,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.09057977
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1964,
+   "Global average temperature anomaly relative to 1961-1990": -0.30586153,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.26222858,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.34949452
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1965,
+   "Global average temperature anomaly relative to 1961-1990": -0.20442048,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.15523025,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.2536107
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1966,
+   "Global average temperature anomaly relative to 1961-1990": -0.1488976,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.09938603,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.19840918
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1967,
+   "Global average temperature anomaly relative to 1961-1990": -0.117539294,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.07442179,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.1606568
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1968,
+   "Global average temperature anomaly relative to 1961-1990": -0.16864756,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.12401963,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.21327549
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1969,
+   "Global average temperature anomaly relative to 1961-1990": -0.03138624,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.009118891,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.071891375
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1970,
+   "Global average temperature anomaly relative to 1961-1990": -0.08506408,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.044075526,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.12605265
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1971,
+   "Global average temperature anomaly relative to 1961-1990": -0.20588905,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.16730586,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.24447224
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1972,
+   "Global average temperature anomaly relative to 1961-1990": -0.09379131,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.055899136,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.1316835
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1973,
+   "Global average temperature anomaly relative to 1961-1990": 0.04995016,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.0864213,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": 0.013479018
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1974,
+   "Global average temperature anomaly relative to 1961-1990": -0.17252657,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.13482748,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.21022564
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1975,
+   "Global average temperature anomaly relative to 1961-1990": -0.110754214,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.07020333,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.15130511
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1976,
+   "Global average temperature anomaly relative to 1961-1990": -0.2158369,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": -0.17581315,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.25586063
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1977,
+   "Global average temperature anomaly relative to 1961-1990": 0.1030885,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.14612031,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": 0.06005668
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1978,
+   "Global average temperature anomaly relative to 1961-1990": 0.0052559716,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.045108557,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.034596615
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1979,
+   "Global average temperature anomaly relative to 1961-1990": 0.09085814,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.11935765,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": 0.062358625
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1980,
+   "Global average temperature anomaly relative to 1961-1990": 0.19607204,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.2293401,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": 0.16280398
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1981,
+   "Global average temperature anomaly relative to 1961-1990": 0.25001204,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.28063282,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": 0.21939126
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1982,
+   "Global average temperature anomaly relative to 1961-1990": 0.034268282,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.0736452,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": -0.0051086354
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1983,
+   "Global average temperature anomaly relative to 1961-1990": 0.22380984,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.25957537,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": 0.18804431
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1984,
+   "Global average temperature anomaly relative to 1961-1990": 0.04799352,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.08444688,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": 0.011540157
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1985,
+   "Global average temperature anomaly relative to 1961-1990": 0.049729742,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.08379605,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": 0.015663432
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1986,
+   "Global average temperature anomaly relative to 1961-1990": 0.09568698,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.12696595,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": 0.064408004
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1987,
+   "Global average temperature anomaly relative to 1961-1990": 0.2430264,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.27386728,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": 0.21218552
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1988,
+   "Global average temperature anomaly relative to 1961-1990": 0.2821517,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.31726816,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": 0.24703526
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1989,
+   "Global average temperature anomaly relative to 1961-1990": 0.1792503,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.21400218,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": 0.14449841
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1990,
+   "Global average temperature anomaly relative to 1961-1990": 0.36058238,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.39659604,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": 0.32456872
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1991,
+   "Global average temperature anomaly relative to 1961-1990": 0.33889654,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.3737569,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": 0.30403617
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1992,
+   "Global average temperature anomaly relative to 1961-1990": 0.12489683,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.15891157,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": 0.09088211
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1993,
+   "Global average temperature anomaly relative to 1961-1990": 0.16570719,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.20319764,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": 0.12821673
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1994,
+   "Global average temperature anomaly relative to 1961-1990": 0.23354979,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.26868662,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": 0.19841295
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1995,
+   "Global average temperature anomaly relative to 1961-1990": 0.37686613,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.41007653,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": 0.34365577
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1996,
+   "Global average temperature anomaly relative to 1961-1990": 0.27668938,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.31019875,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": 0.24318002
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1997,
+   "Global average temperature anomaly relative to 1961-1990": 0.4223085,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.4545262,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": 0.39009085
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1998,
+   "Global average temperature anomaly relative to 1961-1990": 0.5773417,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.61161464,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": 0.54306877
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 1999,
+   "Global average temperature anomaly relative to 1961-1990": 0.32448497,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.3561352,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": 0.29283476
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 2000,
+   "Global average temperature anomaly relative to 1961-1990": 0.33108476,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.36394167,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": 0.29822785
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 2001,
+   "Global average temperature anomaly relative to 1961-1990": 0.48928034,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.5204924,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": 0.4580683
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 2002,
+   "Global average temperature anomaly relative to 1961-1990": 0.5434665,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.57415116,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": 0.51278186
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 2003,
+   "Global average temperature anomaly relative to 1961-1990": 0.54417014,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.5770977,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": 0.5112426
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 2004,
+   "Global average temperature anomaly relative to 1961-1990": 0.46737072,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.5004031,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": 0.43433833
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 2005,
+   "Global average temperature anomaly relative to 1961-1990": 0.6068625,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.63801974,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": 0.5757053
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 2006,
+   "Global average temperature anomaly relative to 1961-1990": 0.5725527,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.60313237,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": 0.541973
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 2007,
+   "Global average temperature anomaly relative to 1961-1990": 0.5917013,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.62204945,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": 0.56135315
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 2008,
+   "Global average temperature anomaly relative to 1961-1990": 0.46564984,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.49864236,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": 0.43265733
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 2009,
+   "Global average temperature anomaly relative to 1961-1990": 0.5967816,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.62830764,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": 0.5652556
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 2010,
+   "Global average temperature anomaly relative to 1961-1990": 0.6803714,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.7116668,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": 0.6490759
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 2011,
+   "Global average temperature anomaly relative to 1961-1990": 0.53769773,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.5693943,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": 0.5060012
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 2012,
+   "Global average temperature anomaly relative to 1961-1990": 0.57760704,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.61035883,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": 0.54485524
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 2013,
+   "Global average temperature anomaly relative to 1961-1990": 0.6235753,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.6586669,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": 0.5884838
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 2014,
+   "Global average temperature anomaly relative to 1961-1990": 0.67287165,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.7068384,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": 0.63890487
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 2015,
+   "Global average temperature anomaly relative to 1961-1990": 0.8251144,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.85894173,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": 0.7912871
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 2016,
+   "Global average temperature anomaly relative to 1961-1990": 0.9329271,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.96409065,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": 0.9017635
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 2017,
+   "Global average temperature anomaly relative to 1961-1990": 0.84517425,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.87557375,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": 0.81477475
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 2018,
+   "Global average temperature anomaly relative to 1961-1990": 0.76265407,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.79425603,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": 0.73105204
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 2019,
+   "Global average temperature anomaly relative to 1961-1990": 0.8910726,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.9253579,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": 0.85678726
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 2020,
+   "Global average temperature anomaly relative to 1961-1990": 0.9229205,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.95754296,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": 0.8882981
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 2021,
+   "Global average temperature anomaly relative to 1961-1990": 0.76190555,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.7983534,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": 0.7254577
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 2022,
+   "Global average temperature anomaly relative to 1961-1990": 0.8013053,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 0.837353,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": 0.76525766
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 2023,
+   "Global average temperature anomaly relative to 1961-1990": 1.1003127,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 1.1389748,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": 1.0616506
+ },
+ {
+   "Entity": "Global",
+   "Code": "",
+   "Year": 2024,
+   "Global average temperature anomaly relative to 1961-1990": 1.2314565,
+   "Upper bound of the annual temperature anomaly (95% confidence interval)": 1.3590937,
+   "Lower bound of the annual temperature anomaly (95% confidence interval)": 1.1038193
+ }
+]
