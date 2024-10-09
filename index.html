@@ -2,15 +2,30 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8">
-		<title>My first three.js app</title>
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Protest+Strike&display=swap" rel="stylesheet">
+		<link rel="stylesheet" href="style.css">
+		<script defer type="module" src="tempAnomaly.js"></script>
+		<script defer type="module" src="main.js"></script>
+		<title>Climate Change</title>
 		<style>
 			body { margin: 0; background-color: #6ac2fc; }
 		</style>
 	</head>
 	<body>
-        <div id="container"></div>
-		<script type="module" src="main.js"></script>
-		<div style="width: 3000px; height: 800px;"><canvas id="tempAnomaly"></canvas></div>
-		<!-- <script type="module" src="tempAnomaly.js"></script> -->
+		<h3></h3>
+        <div id="container">
+			<h1>The Earth is Getting Hotter.</h1>
+			<div id="earthContainer">
+				<p>in 1945, the United States dropped a nuclear weapon
+				on Hiroshima, Japan.<br><br>
+				since then, we've added the equivalent energy of 200,000,000 of those bombs to the atmosphere.
+				</p>
+			</div>
+			<div id="chartContainer" style="width: 800px; height: 500px;">
+				<canvas id="tempAnomaly"></canvas>
+			</div>
+		</div>
 	</body>
 </html>

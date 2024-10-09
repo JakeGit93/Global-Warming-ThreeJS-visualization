@@ -1,0 +1,35 @@
+* {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1rem;
+}
+
+#container{
+    top: 10rem;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+h1{
+    text-align: center;
+    font-size: 5rem;
+}
+
+#chartContainer{
+    position: relative;
+    margin: 2rem;
+}
+
+#earthContainer{
+    position: relative;
+    margin: 5rem;
+}
+
+p{
+    font-size: 3rem;
+}

@@ -2,7 +2,7 @@ import * as THREE from 'three';
 import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader.js';
 import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls';
 
-
+const container = document.querySelector('#earthContainer');
 const scene = new THREE.Scene();
 const camera = new THREE.PerspectiveCamera( 30, window.innerWidth / window.innerHeight, 0.1, 1000 );
 const renderer = new THREE.WebGLRenderer({ antialias: true});
@@ -19,6 +19,7 @@ const light2 = new THREE.DirectionalLight(0xff9c33, 5);
 const light3 = new THREE.DirectionalLight(0xffffff, 1);
 const amLight = new THREE.AmbientLight( 0xffffff, 0.5 ); // soft white light
 const controls = new OrbitControls( camera, renderer.domElement );
+controls.enableZoom = false;
 controls.enableRotate = false;
 controls.autoRotate = true;
 controls.autoRotateSpeed = 1;
@@ -45,10 +46,7 @@ loader.load(
 		//scene.add(amLight);
 		action.play();
 		renderer.setAnimationLoop( animate );
-		
-	
-
-
+		container.append(renderer.domElement);
 	}
 );
 
