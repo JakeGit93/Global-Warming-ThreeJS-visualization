@@ -2,10 +2,14 @@
     font-family: "Bebas Neue", sans-serif;
     font-weight: 400;
     font-style: normal;
-    font-size: 1rem;
 }
 
-#container{
+body {
+    margin: 0; 
+    background-color:#28a9ff;
+}
+
+#container {
     top: 10rem;
     position: relative;
     display: flex;
@@ -15,21 +19,71 @@
     flex-direction: column;
 }
 
-h1{
+h1 {
     text-align: center;
-    font-size: 5rem;
+    font-size: 6rem;
+    z-index: 0;
+
+    background-color: transparent;
+    background-image: linear-gradient(90deg, #000000 70%, #af4261 90%, #f3ec78);
+    background-size: 100%;
+    background-repeat: repeat;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+    -moz-background-clip: text;
+    -moz-text-fill-color: transparent;
 }
 
-#chartContainer{
-    position: relative;
-    margin: 2rem;
-}
-
-#earthContainer{
+#firstParagraph {
     position: relative;
     margin: 5rem;
+    z-index: 2;
 }
 
-p{
-    font-size: 3rem;
+.loudWhiteText{
+    color: white;
+    font-size: 4rem;
+    margin: 0.5rem;
+}
+
+.loudDarkText{
+    color: black;
+}
+
+.loudGradientText{
+    background-color: transparent;
+    background-image: linear-gradient(to left,#ffffff 30%, #ff0000);
+    background-size: 100%;
+    background-repeat: repeat;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+    -moz-background-clip: text;
+    -moz-text-fill-color: transparent;
+}
+
+#earthContainer {
+    position: absolute;
+    z-index: 1;
+    top: 10rem;
+}
+
+#earthContainer > canvas {
+    width: 800px;
+    height: 400px;
+}
+
+#section2{
+    background-color: #285eff;
+    position: relative;
+    display: flex;
+    top: 10rem;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#chartContainer {
+    position: relative;
+    margin: 2rem;
 }

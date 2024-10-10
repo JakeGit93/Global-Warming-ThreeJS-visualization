@@ -5,14 +5,14 @@ import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls';
 const container = document.querySelector('#earthContainer');
 const scene = new THREE.Scene();
 const camera = new THREE.PerspectiveCamera( 30, window.innerWidth / window.innerHeight, 0.1, 1000 );
-const renderer = new THREE.WebGLRenderer({ antialias: true});
+const renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true});
 const clock = new THREE.Clock();
 let mixer;
 
-renderer.setSize( window.innerWidth / 3, window.innerHeight / 3);
+renderer.setSize( window.innerWidth * 1.2, window.innerHeight * 1.2, true);
 renderer.setAnimationLoop( animate );
 document.body.appendChild( renderer.domElement );
-scene.background = new THREE.Color(0x6ac2fc);
+//scene.background = new THREE.Color(0x6ac2fc);
 
 const light1 = new THREE.DirectionalLight(0xffffff, 1);
 const light2 = new THREE.DirectionalLight(0xff9c33, 5);

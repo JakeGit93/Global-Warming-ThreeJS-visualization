@@ -5,26 +5,32 @@
 		<link rel="preconnect" href="https://fonts.googleapis.com">
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 		<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Protest+Strike&display=swap" rel="stylesheet">
-		<link rel="stylesheet" href="style.css">
+		<link rel="stylesheet" href="style.css?v=1.0" type="text/css">
 		<script defer type="module" src="tempAnomaly.js"></script>
 		<script defer type="module" src="main.js"></script>
 		<title>Climate Change</title>
-		<style>
-			body { margin: 0; background-color: #6ac2fc; }
-		</style>
 	</head>
 	<body>
-		<h3></h3>
         <div id="container">
 			<h1>The Earth is Getting Hotter.</h1>
-			<div id="earthContainer">
+			<div class="loudWhiteText" id="firstParagraph">
 				<p>in 1945, the United States dropped a nuclear weapon
-				on Hiroshima, Japan.<br><br>
-				since then, we've added the equivalent energy of 200,000,000 of those bombs to the atmosphere.
+					on Hiroshima, Japan.<br><br>
+					<p class="loudGradientText">instantly killing 80,000 people.</p><br>
+					since then, we've added the equivalent energy of 2 of those bombs to the atmosphere.<br><br>
+					<p class="loudDarkText">Every second.</p>
 				</p>
 			</div>
-			<div id="chartContainer" style="width: 800px; height: 500px;">
-				<canvas id="tempAnomaly"></canvas>
+			<div id="earthContainer"></div>
+			<div id="section2">
+				<p class="loudWhiteText">Let's think about this for a moment.</p>
+				<p>62,000,000 Little Boy Nuclear Weapons every year, for 79 years.</p><br>
+				<p>five billion bombs worth of energy.</p><br>
+				<p>But, we started adding energy to earth long before 1945.</p><br>
+				<p>Let's go back.</p>
+				<div id="chartContainer" style="width: 800px; height: 500px;">
+					<canvas id="tempAnomaly"></canvas>
+				</div>
 			</div>
 		</div>
 	</body>
