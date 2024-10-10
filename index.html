@@ -11,7 +11,7 @@
 		<title>Climate Change</title>
 	</head>
 	<body>
-        <div id="container">
+        <div id="headerContainer">
 			<h1>The Earth is Getting Hotter.</h1>
 			<div class="loudWhiteText" id="firstParagraph">
 				<p>in 1945, the United States dropped a nuclear weapon
@@ -22,15 +22,17 @@
 				</p>
 			</div>
 			<div id="earthContainer"></div>
-			<div id="section2">
-				<p class="loudWhiteText">Let's think about this for a moment.</p>
-				<p>62,000,000 Little Boy Nuclear Weapons every year, for 79 years.</p><br>
-				<p>five billion bombs worth of energy.</p><br>
-				<p>But, we started adding energy to earth long before 1945.</p><br>
-				<p>Let's go back.</p>
-				<div id="chartContainer" style="width: 800px; height: 500px;">
-					<canvas id="tempAnomaly"></canvas>
-				</div>
+		</div>
+		<div id="section2">
+			<p class="loudWhiteText">Let's think about this for a moment.</p>
+			<div class="descriptiveText">
+				<p>62,000,000 Nuclear Weapons every year, for 79 years.</p>
+				<p id="fiveBillionBombs">five billion bombs worth of energy.</p>
+				<p>But, we started adding energy to earth long before 1945.</p>
+				<p>Let's go back...</p>
+			</div>
+			<div id="chartContainer">
+				<canvas id="tempAnomaly"></canvas>
 			</div>
 		</div>
 	</body>
