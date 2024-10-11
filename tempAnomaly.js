@@ -2,6 +2,14 @@ import Chart from 'chart.js/auto'
 import { Colors } from 'chart.js';
 import data from './temperature-anomaly.json';
 
+const c = document.getElementById("tempAnomaly");
+const ctx = c.getContext("2d");
+
+// Create linear gradient
+const grad=ctx.createLinearGradient(100, 0, 0, 600);
+grad.addColorStop(0, "#ff0000");
+grad.addColorStop(1, "#ffffff"); 
+
 (async function() {
   new Chart(document.getElementById('tempAnomaly'), {
       type: 'line',
@@ -17,7 +25,7 @@ import data from './temperature-anomaly.json';
           title: {
             display: true,
             text: 'AVERAGE TEMPERATURE ANOMALY',
-            color: '#000000',
+            color: '#ffffff',
             fullSize: false,
             font: {
               family: "Bebas Neue",
@@ -30,14 +38,14 @@ import data from './temperature-anomaly.json';
             title: {
               display: 'true',
               text: 'DEGREES CELCIUS',
-              color: '#000000',
+              color: '#ffffff',
               font: {
                 family: "Bebas Neue",
-                size: 25
+                size: 15
               },
             },
             ticks: {
-              color: '#000000'
+              color: '#ffffff'
             },
             grid: {
               display: false,
@@ -47,14 +55,14 @@ import data from './temperature-anomaly.json';
             title: {
               text: 'YEAR',
               display: true,
-              color: '#000000',
+              color: '#ffffff',
               font: {
                 family: "Bebas Neue",
-                size: 25
+                size: 15
               }
             },
             ticks: {
-              color: '#000000',
+              color: '#ffffff',
               font: {
                 family: "Bebas Neue",
                 size: 10
@@ -69,7 +77,7 @@ import data from './temperature-anomaly.json';
           {
             label: 'Average Temperature Anomaly, Global',
             data: data.map(row => row['Global average temperature anomaly relative to 1961-1990']),
-            borderColor: '#ff0000',
+            borderColor: grad,
             pointBackgroundColor: '#ffffff',
             
           }
