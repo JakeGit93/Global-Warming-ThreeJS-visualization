@@ -1,4 +1,4 @@
-import Chart from './node_modules/chart.js/auto'
+import Chart from 'chart.js/auto'
 import { Colors } from 'chart.js';
 import data from './temperature-anomaly.json';
 
